@@ -93,17 +93,10 @@ Following mentioned are the major frameworks/libraries used to bootstrap this pr
 Following are the details of the file structure of this project:
 
 ```
-raft-consensus
-├──── LICENSE
+distributed-key-value-db
 ├──── README.md
 ├──── go.mod
 ├──── go.sum
-├──── images
-│     └── logo.png
-│     └── overall.png
-│     └── test1.png
-│     └── test2.png
-│     └── timing.png
 ├──── main.go
 ├──── raft
 │     ├── config.go
